@@ -62,10 +62,9 @@ Before deploying to hardware, all key modules were simulated using:
 
 ## 🖼️ Screenshots
 
-
+![](imagen/imagen_pacman.png)
 
 
 ---
 
-## 📁 Project Structure
 
